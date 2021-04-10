@@ -7,3 +7,4 @@
 	path = opencpu
 	url = https://github.com/opencpu/opencpu
 	shallow = true
+	registered = true
