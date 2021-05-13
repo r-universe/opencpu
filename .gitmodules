@@ -8,3 +8,4 @@
 	url = https://github.com/opencpu/opencpu
 	shallow = true
 	registered = true
+	oncran = true
